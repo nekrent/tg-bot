@@ -2,5 +2,5 @@ from dataclasses import dataclass
 
 @dataclass
 class Config:
-    token: str = 'токен бота'
+    token: str = ''
    
